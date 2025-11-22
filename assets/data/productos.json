@@ -1,0 +1,102 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laptop HP Pavilion",
+        "descripcion": "Laptop con procesador Intel Core i5, 8GB RAM, 256GB SSD",
+        "precio": 599990,
+        "stock": 15,
+        "categoria": "Computadores",
+        "etiquetas": ["laptop", "hp", "computacion"],
+        "imagen": "https://via.placeholder.com/200x200/4A90E2/ffffff?text=Laptop"
+    },
+    {
+        "id": 2,
+        "nombre": "Mouse Logitech MX Master",
+        "descripcion": "Mouse inalambrico ergonomico de precision",
+        "precio": 79990,
+        "stock": 3,
+        "categoria": "Accesorios",
+        "etiquetas": ["mouse", "logitech", "inalambrico"],
+        "imagen": "https://via.placeholder.com/200x200/7B68EE/ffffff?text=Mouse"
+    },
+    {
+        "id": 3,
+        "nombre": "Teclado Mecanico Razer",
+        "descripcion": "Teclado mecanico RGB con switches Cherry MX",
+        "precio": 129990,
+        "stock": 1,
+        "categoria": "Accesorios",
+        "etiquetas": ["teclado", "razer", "gaming", "rgb"],
+        "imagen": "https://via.placeholder.com/200x200/50C878/ffffff?text=Teclado"
+    },
+    {
+        "id": 4,
+        "nombre": "Monitor Samsung 27 pulgadas",
+        "descripcion": "Monitor Full HD IPS 27 pulgadas 75Hz",
+        "precio": 189990,
+        "stock": 8,
+        "categoria": "Monitores",
+        "etiquetas": ["monitor", "samsung", "full-hd"],
+        "imagen": "https://via.placeholder.com/200x200/FF6347/ffffff?text=Monitor"
+    },
+    {
+        "id": 5,
+        "nombre": "Audifonos Sony WH-1000XM4",
+        "descripcion": "Audifonos con cancelacion de ruido activa",
+        "precio": 299990,
+        "stock": 0,
+        "categoria": "Audio",
+        "etiquetas": ["audifonos", "sony", "bluetooth", "premium"],
+        "imagen": "https://via.placeholder.com/200x200/FFD700/ffffff?text=Audifonos"
+    },
+    {
+        "id": 6,
+        "nombre": "Webcam Logitech C920",
+        "descripcion": "Camara web Full HD 1080p con microfono",
+        "precio": 59990,
+        "stock": 2,
+        "categoria": "Accesorios",
+        "etiquetas": ["webcam", "logitech", "streaming"],
+        "imagen": "https://via.placeholder.com/200x200/20B2AA/ffffff?text=Webcam"
+    },
+    {
+        "id": 7,
+        "nombre": "SSD Samsung 1TB",
+        "descripcion": "Disco solido SSD SATA 1TB alta velocidad",
+        "precio": 89990,
+        "stock": 12,
+        "categoria": "Almacenamiento",
+        "etiquetas": ["ssd", "samsung", "almacenamiento"],
+        "imagen": "https://via.placeholder.com/200x200/FF69B4/ffffff?text=SSD"
+    },
+    {
+        "id": 8,
+        "nombre": "Impresora HP LaserJet",
+        "descripcion": "Impresora laser monocromatica compacta",
+        "precio": 149990,
+        "stock": 0,
+        "categoria": "Impresoras",
+        "etiquetas": ["impresora", "hp", "laser"],
+        "imagen": "https://via.placeholder.com/200x200/9370DB/ffffff?text=Impresora"
+    },
+    {
+        "id": 9,
+        "nombre": "Router TP-Link AC1200",
+        "descripcion": "Router inalambrico dual band AC1200",
+        "precio": 39990,
+        "stock": 1,
+        "categoria": "Redes",
+        "etiquetas": ["router", "tp-link", "wifi"],
+        "imagen": "https://via.placeholder.com/200x200/FFA500/ffffff?text=Router"
+    },
+    {
+        "id": 10,
+        "nombre": "Hub USB-C 7 puertos",
+        "descripcion": "Hub USB-C con 7 puertos multiproposito",
+        "precio": 29990,
+        "stock": 6,
+        "categoria": "Accesorios",
+        "etiquetas": ["hub", "usb-c", "conectividad"],
+        "imagen": "https://via.placeholder.com/200x200/00CED1/ffffff?text=Hub"
+    }
+]
