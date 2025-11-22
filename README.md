@@ -7,8 +7,8 @@ Sistema de tienda en linea con programacion asincrona para gestion de inventario
 Clona el repositorio:
 
 ```bash
-git clone [URL_DEL_REPOSITORIO]
-cd "Modulo 5/Tarea 07"
+git clone https://github.com/DevsataAlbo/Tecno_Chile_Asincrono.git
+cd "Tecno_Chile_Asincrono"
 ```
 
 ## Ejecutar en local
